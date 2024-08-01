@@ -4,7 +4,7 @@ This app is meant to be my project for Hackathon HMKG 2024, but I didnt make it.
 
 This app is about bringing the new fresh AI especially LLM (Large Language Model) technology to users can access and understand BMKG data. With LLM like Gemini, we can remove boundaries like language different, complex words, etc. LLM can understand human natural language and then return it with useful and understandable information for users.
 
-## App Images
+## Screenshoots
 ![app](images/app.png)
 ![app](images/figma.png)
 
