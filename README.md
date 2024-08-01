@@ -1,6 +1,6 @@
 # Mego Virtual Asisstant App
 
-This app is meant to be my project for Hackathon HMKG 2024, but I didnt make it. So, I will make it public.
+First of all i want to credit to Raihan Ahmad Fauzan for this app idea. This app is meant to be my project for Hackathon HMKG 2024, but I didnt make it. So, I will make it public.
 
 This app is about bringing the new fresh AI especially LLM (Large Language Model) technology to users can access and understand BMKG data. With LLM like Gemini, we can remove boundaries like language different, complex words, etc. LLM can understand human natural language and then return it with useful and understandable information for users.
 
